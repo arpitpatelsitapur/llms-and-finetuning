@@ -28,17 +28,18 @@ The learning and code implementations in this repository are based on:
 ### 2. **Text Generator with GPT**
    - **Description**: A text generation app that creates coherent text given a prompt using a fine-tuned GPT model.
    - **Tech Stack**: Python, OpenAI API
-   - **Status**: Completed
+   - **Status**: In Progress
 
 ### 3. **Sentiment Analysis with BERT**
    - **Description**: Fine-tuned BERT model for sentiment analysis on a custom dataset.
    - **Tech Stack**: Python, Hugging Face Transformers, TensorFlow
-   - **Status**: Completed
-
-### 4. **Custom Chatbot with LLaMA**
-   - **Description**: A chatbot fine-tuned on the LLaMA model to provide personalized responses for a specific domain.
-   - **Tech Stack**: Python, Meta AI’s LLaMA, PyTorch
    - **Status**: In Progress
+     
+### 4. **Blog Generator App with LLaMA2**
+![Blog Generator App created  Using LLaMA2](assets/Blog Generator App created  Using LLaMA2.png)
+   - **Description**: An App LLaMA2 model to provide personalized responses for a specific domain in limit words as provided by user.
+   - **Tech Stack**: Python, Meta AI’s LLaMA, PyTorch
+   - **Status**: Completed ✔️✔️✔️✔️✔️✔️✔️✔️
 
 ... (more projects as we go forward)
 
