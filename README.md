@@ -20,10 +20,11 @@ The learning and code implementations in this repository are based on:
 
 ## 🛠️ Projects
 
-### 1. **Student Support Chatbot**
-   - **Description**: A chatbot built using a pre-trained transformer model, fine-tuned to assist students with campus information and admissions queries.
-   - **Tech Stack**: Python, Hugging Face Transformers, OpenAI API
-   - **Status**: In Progress
+### 1. **Blog Generator App with LLaMA2**
+![Blog Generator App created  Using LLaMA2](assets/Blog_Generator_App_created_Using_LLaMA2.png)
+   - **Description**: An App LLaMA2 model to provide personalized responses for a specific domain in limit words as provided by user.
+   - **Tech Stack**: Python, Meta AI’s LLaMA2, Streamlit, Langchain, Langchain-Community etc.
+   - **Status**: Completed ✔️✔️✔️✔️✔️✔️✔️✔️
 
 ### 2. **Text Generator with GPT**
    - **Description**: A text generation app that creates coherent text given a prompt using a fine-tuned GPT model.
@@ -35,11 +36,10 @@ The learning and code implementations in this repository are based on:
    - **Tech Stack**: Python, Hugging Face Transformers, TensorFlow
    - **Status**: In Progress
      
-### 4. **Blog Generator App with LLaMA2**
-![Blog Generator App created  Using LLaMA2](assets/Blog Generator App created  Using LLaMA2.png)
-   - **Description**: An App LLaMA2 model to provide personalized responses for a specific domain in limit words as provided by user.
-   - **Tech Stack**: Python, Meta AI’s LLaMA, PyTorch
-   - **Status**: Completed ✔️✔️✔️✔️✔️✔️✔️✔️
+### 4. **Student Support Chatbot**
+   - **Description**: A chatbot built using a pre-trained transformer model, fine-tuned to assist students with campus information and admissions queries.
+   - **Tech Stack**: Python, Hugging Face Transformers, OpenAI API
+   - **Status**: In Progress
 
 ... (more projects as we go forward)
 
